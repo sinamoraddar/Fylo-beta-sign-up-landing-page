@@ -1,0 +1,23 @@
+{
+  "name": "fylo-beta-sign-up-landing-page",
+  "version": "1.0.0",
+  "description": "a psd to html webpage for the challenge by frontendmentor.io-made with mobile first design concepts",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch resources/sass/main.scss:resources/css/main.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sinamoraddar/Fylo-beta-sign-up-landing-page.git"
+  },
+  "author": "sinamoraddar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sinamoraddar/Fylo-beta-sign-up-landing-page/issues"
+  },
+  "homepage": "https://github.com/sinamoraddar/Fylo-beta-sign-up-landing-page#readme",
+  "dependencies": {
+    "sass": "^1.22.12"
+  }
+}
